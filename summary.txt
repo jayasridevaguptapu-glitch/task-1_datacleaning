@@ -1,0 +1,11 @@
+DATA CLEANING SUMMARY
+Dataset Used: [Write your dataset name]
+Changes Performed:
+1. Checked the dataset for missing values.
+2. Removed duplicate records from the dataset.
+3. Standardized text values to maintain consistency.
+4. Renamed column headers to make them clear and uniform.
+5. Checked data quality and corrected inconsistent values.
+6. Saved the cleaned dataset as cleaned_dataset.csv.
+Outcome:
+The dataset was successfully cleaned and prepared for further analysis.
